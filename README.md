@@ -11,7 +11,7 @@ I only need it on my Mac, but I think it will work on any system running NodeJS.
 
 or
 
-`yarn add global mcasto/gen-id`
+`yarn global add mcasto/gen-id`
 
 # Usage
 There's nothing fancy about this :D
