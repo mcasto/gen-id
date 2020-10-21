@@ -1,0 +1,11 @@
+{
+  "name": "gen-id",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "clipboardy": "^2.3.0",
+    "uniqid": "^5.2.0"
+  }
+}
